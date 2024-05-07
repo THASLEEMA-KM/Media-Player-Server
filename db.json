@@ -1,0 +1,78 @@
+{
+  "allVideos": [
+    {
+      "id": "c2e9",
+      "caption": "React Tutorial",
+      "imgURL": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+      "youtubeURL": "https://www.youtube.com/embed/RVFAyFWO4go"
+    },
+    {
+      "id": "ee51",
+      "caption": "CSS",
+      "imgURL": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/ESnrn1kAD4E"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "1ac5",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "39e8",
+          "caption": "Manjummal Boys",
+          "imgURL": "https://img.theweek.in/content/dam/week/week/news/entertainment/images/2024/3/11/Manjummel-Boys-ott.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/id848Ww1YLo"
+        }
+      ]
+    },
+    {
+      "id": "2120",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    },
+    {
+      "id": "d0da",
+      "categoryName": "Cartoons",
+      "allVideos": [
+        {
+          "id": "13e2",
+          "caption": "Tom & Jerry",
+          "imgURL": "https://m.media-amazon.com/images/M/MV5BNGEzMDU2ZjQtN2NlNC00YjQ0LWJjZmYtY2RkZDFlZjRmNmJhXkEyXkFqcGdeQXVyMTYwODE3NTA3._V1_.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/oEja2LR8M7I"
+        }
+      ]
+    },
+    {
+      "id": "9039",
+      "categoryName": "sample",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "f42d",
+      "caption": "Premalu",
+      "youtubeURL": "https://www.youtube.com/embed/rR_2ti4l3nM",
+      "timeStamp": "5/1/2024, 10:49:07 AM GMT+5:30"
+    },
+    {
+      "id": "7c01",
+      "caption": "Aavesham",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "5/3/2024, 9:27:34 AM GMT+5:30"
+    },
+    {
+      "id": "7294",
+      "caption": "React Tutorial",
+      "youtubeURL": "https://www.youtube.com/embed/RVFAyFWO4go",
+      "timeStamp": "5/6/2024, 9:21:51 AM GMT+5:30"
+    },
+    {
+      "id": "8732",
+      "caption": "Manjummal Boys",
+      "youtubeURL": "https://www.youtube.com/embed/id848Ww1YLo",
+      "timeStamp": "5/6/2024, 10:31:40 AM GMT+5:30"
+    }
+  ]
+}
